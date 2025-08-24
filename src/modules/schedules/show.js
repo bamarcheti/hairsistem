@@ -30,7 +30,7 @@ export function schedulesShow({ dailySchedules }) {
       cancelIcon.setAttribute("src", "./src/assets/cancel.svg");
       cancelIcon.setAttribute("alt", "Cancelar");
 
-      // Adicion o tempo, nome e ícone no item
+      // Adiciona o tempo, nome e ícone no item
       item.append(time, name, cancelIcon);
 
       // Obtém somente a hora
@@ -46,7 +46,7 @@ export function schedulesShow({ dailySchedules }) {
       }
     });
   } catch (error) {
-    alert("Não foi possível exibis os agendamentos");
+    alert("Não foi possível exibir os agendamentos");
     console.log(error);
   }
 }
