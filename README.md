@@ -6,7 +6,7 @@
 Projeto construído durante a formação de FullStack da Rocketseat com objetivo de aprofundar o JavaScript com conhecimentos dos seguintes pacotes: json-server, webpack, babel e dayjs, para manipular formulário com renderização de horários e integração com a API utilizando fetch com os seguintes métodos: POST, DELETE e filtragem da rota para realizar a lista de agendamentos. 
 O HairSistem é um sistema de agendamento de corte de cabelos para barbearia, salões e cabeleireiros.
 
-[🔗 Clique aqui para acessar](https://my-resume-bamarcheti.vercel.app/)
+[🔗 Clique aqui para acessar](https://hairsistem.vercel.app/)
 
 ## **🛠 Tecnologias**
 
