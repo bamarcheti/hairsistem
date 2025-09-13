@@ -3,6 +3,16 @@
 ![thumbnail](/.github/thumbnail.png)
 ![preview](/.github/preview.png)
 
+<p align="center">
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#contato">Contato</a>
+</p>
+
+
+## **💡 Sobre**
 Projeto construído durante a formação de FullStack da Rocketseat com objetivo de aprofundar o JavaScript com conhecimentos dos seguintes pacotes: json-server, webpack, babel e dayjs, para manipular formulário com renderização de horários e integração com a API utilizando fetch com os seguintes métodos: POST, DELETE e filtragem da rota para realizar a lista de agendamentos. 
 O HairSistem é um sistema de agendamento de corte de cabelos para barbearia, salões e cabeleireiros.
 
@@ -32,7 +42,7 @@ Você pode encontrar o Design dessa aplicação no link abaixo:
 
 - [Figma](https://www.figma.com/proto/s70a2RN3kvewziG6NVEoEp/Plataforma-de-agendamento--Community-?node-id=915-685&p=f&t=8Th7Hx8AL3U8fO9j-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 
-## **💛 Contato**
+## **💜 Contato**
 
 [<img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white' alt='Website' height='30'>](https://bamarcheti.dev.br)
 [<img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' height='30'>](https://discord.com/channels/@ba_marcheti#3824)
